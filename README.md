@@ -55,7 +55,7 @@
 ## Output:
 
 
-### Name: SELVAM
+### Name: 
 ### Register Number: 
 
 ## RESULT:
